@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 		//we use a predefined simple spinner drop down, 
 		//you could define your own layout, so that for instance
 		//there was pictures in the drop down list.
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+		ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
 				android.R.layout.simple_spinner_dropdown_item, items);
  
 		spinner.setAdapter(adapter);
