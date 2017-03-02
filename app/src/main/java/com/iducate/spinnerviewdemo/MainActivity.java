@@ -22,13 +22,22 @@ public class MainActivity extends Activity {
 
 		//The spinner is defined in our xml file
 		Spinner spinner = (Spinner) findViewById(R.id.spinner1);
+		Spinner spinner2 = (Spinner) findViewById(R.id.spinner2);
+
 
 		//we use a predefined simple spinner drop down, 
 		//you could define your own layout, so that for instance
 		//there was pictures in the drop down list.
 		ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
 				android.R.layout.simple_spinner_dropdown_item, items);
- 
+
+		//here is another way of initializing a spinner - getting the resources
+		//from the xml values file
+		ArrayAdapter<CharSequence> adapter2 = ArrayAdapter.createFromResource(
+				this, R.array.spinner_array, android.R.layout.simple_spinner_item);
+		adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+		spinner2.setAdapter(adapter2);
+
 		spinner.setAdapter(adapter);
 
 		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
