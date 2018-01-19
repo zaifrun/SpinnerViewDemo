@@ -38,6 +38,21 @@ public class MainActivity extends Activity {
 		adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 		spinner2.setAdapter(adapter2);
 
+		spinner2.setOnItemSelectedListener(new OnItemSelectedListener() {
+			@Override
+			public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+				String[] listArray = getResources().getStringArray(R.array.spinner_array);
+				Toast.makeText(MainActivity.this,
+						"Item selected: " + listArray[position], Toast.LENGTH_SHORT)
+						.show();
+			}
+
+			@Override
+			public void onNothingSelected(AdapterView<?> parent) {
+
+			}
+		});
+
 		spinner.setAdapter(adapter);
 
 		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
