@@ -21,8 +21,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 
 		//The spinner is defined in our xml file
-		Spinner spinner = (Spinner) findViewById(R.id.spinner1);
-		Spinner spinner2 = (Spinner) findViewById(R.id.spinner2);
+		Spinner spinner = findViewById(R.id.spinner1);
+		Spinner spinner2 = findViewById(R.id.spinner2);
 
 
 		//we use a predefined simple spinner drop down, 
