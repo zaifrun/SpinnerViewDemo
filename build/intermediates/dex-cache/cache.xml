@@ -2,55 +2,40 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_b202e176b2f93df4a92e7701af2657547b829718.jar" />
+        revision="25.0.0"
+        sha1="3ff8a29c5fcc56424349fc718901987bff46b096">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_03b9e0c64c3d5c0f63ad4c6d2ecf1bcb17c0e23b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ab341a1f5d2ba2c0587c6f917039a7c083db276c.jar" />
+        revision="25.0.3"
+        sha1="d5e22617a3452b26cfb4da52c1306da34cfc0d1c">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_03b9e0c64c3d5c0f63ad4c6d2ecf1bcb17c0e23b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b4317115f32fd7d0cea63dd77ca3608310c109a2.jar" />
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eca61cbddce97fdc8a77524f21971684aaadaa5c\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_b202e176b2f93df4a92e7701af2657547b829718.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\makn\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b4317115f32fd7d0cea63dd77ca3608310c109a2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ab341a1f5d2ba2c0587c6f917039a7c083db276c.jar" />
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eca61cbddce97fdc8a77524f21971684aaadaa5c\classes.dex" />
     </item>
 
 </items>

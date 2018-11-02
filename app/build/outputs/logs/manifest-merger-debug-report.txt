@@ -4,13 +4,16 @@ ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\sr
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:1-23:12
@@ -30,20 +33,6 @@ INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:7:5-21:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
@@ -58,7 +47,7 @@ ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\sr
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:14:13-45
 	android:name
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:13:13-68
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml:16:17-69
@@ -72,24 +61,28 @@ uses-sdk
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
@@ -98,25 +91,3 @@ INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app
 		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\SpinnerViewDemo\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\bfde511b9ec6fb7ac10e4747df4f9076\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\dee4d47bd195d06a784b6a60fd501e06\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\462d9e41c1310abed25f3d46f19d1c10\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5afddfd5dc9d73ea2a4a1d06aac205d4\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7779137e74f139154a646d63e2b3f515\AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\168e2fe1a39889f0f6e8795d6c450a26\AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee094a30ed6c04d13ca1f08194afd971\AndroidManifest.xml:26:13-58
