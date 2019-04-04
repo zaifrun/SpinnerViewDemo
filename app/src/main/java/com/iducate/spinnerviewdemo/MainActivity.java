@@ -63,7 +63,8 @@ public class MainActivity extends Activity {
 		spinner2.setOnItemSelectedListener(new OnItemSelectedListener() {
 			@Override
 			public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-				String[] listArray = getResources().getStringArray(R.array.spinner_array);
+				//String test = getResources().getString(R.string.hello_world);
+			    String[] listArray = getResources().getStringArray(R.array.spinner_array);
 				Toast.makeText(MainActivity.this,
 						"Item selected: " + listArray[position], Toast.LENGTH_SHORT)
 						.show();
